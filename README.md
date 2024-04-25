@@ -19,10 +19,10 @@
                         <li><a href="#home" class="active">Home</a></li>
                         <li><a href="#menu" class="active">Menu</a></li>
                         <ul class="dropdown-menu">
-                            <li><a href="Modu-1">Modul 1</a></li>
-                            <li><a href="Modul-2">Modul 2</a></li>
-                            <li><a href="Modul-3">Modul 3</a></li>
-                            <li><a href="Modul-3.1">Modul 3</a> </li>
+                          <li><a href="Modul 1.html">Modul 1</a></li>
+                            <li><a href="Modul 2.html">Modul 2</a></li>
+                            <li><a href="Modul 3 Gabungan Inline, Internal, Eksternal.html">Modul 3</a></li>
+                            <li><a href="Modul 3 Variasi CSS.html">Modul 3</a> </li>
                         </ul>
                         <li><a href="#courses">Courses</a></li>
                         <li><a href="#tutors">Tutors</a></li>
